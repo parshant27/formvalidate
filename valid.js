@@ -38,16 +38,16 @@ $(document).ready(function() {
       // $("#pass").removeClass(".error");
       // alert("thank you");
       
-      $("#snoAlertBox").fadeIn();
-   closeSnoAlertBox();
+//       $("#snoAlertBox").fadeIn();
+//    closeSnoAlertBox();
 
 
-        function closeSnoAlertBox(){
-        window.setTimeout(function () {
-        $("#snoAlertBox").fadeOut(300)
-}, 3000);
-} 
-    
+//         function closeSnoAlertBox(){
+//         window.setTimeout(function () {
+//         $("#snoAlertBox").fadeOut(300)
+// }, 3000);
+// } 
+       alert("gugu");
         
     }
     
